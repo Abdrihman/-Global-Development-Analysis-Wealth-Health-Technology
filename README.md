@@ -4,7 +4,7 @@
 
 This project transforms a messy, real-world dataset of 1,500+ country records into clean, professional insights about the relationship between **GDP**, **Life Expectancy**, and **Internet Access** [...]
 
-## 📊 What You'll Find
+## 📊 What You'll Find 
 
 ### Phase 1: The Great Cleanup 🧹
 - **Continent Standardization**: Maps 25+ variations (Afri ca, AFRICA, AF) to 6 standard names
